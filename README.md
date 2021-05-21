@@ -1,2 +1,3 @@
 # AshCoder232.github.io
- EDTECH Website s=using Bootstrap and CSS
+ EDTECH Website using Bootstrap and CSS
+ Access the website with an internet connection for the bootstrap css stuff :)
