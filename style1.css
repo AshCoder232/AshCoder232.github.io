@@ -1,0 +1,188 @@
+h3{
+    text-align: center;
+}
+
+
+@font-face {
+    font-family: 'webfont';
+    src: url(fonts/Futura.woff);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'nunitosb1';
+    src: url(fonts/Nunito-SemiBold.ttf);
+}
+#navbar-text{
+    font-family: 'webfont';
+}
+#trend{
+    
+    font-family: 'webfont';
+    color:rgb(1, 178, 184);
+    position: relative;
+    left: 85px ;        
+}
+#trendcourses{
+    font-family: 'webfont';
+    color:rgb(1, 178, 184);
+    position: relative;
+
+
+}
+
+#foot{
+    margin-left: 30px;
+}
+
+#hsupp{
+    font-family: 'webfont';
+    font-weight: bolder;
+    color:rgb(1, 178, 184);
+    
+    position: relative;
+    left:68px ; 
+}
+
+#about-header{
+    font-family: 'webfont';
+    margin-left : 88px;
+    color: darkgreen;
+    
+}
+
+
+#sup1{
+    text-align: center;
+    text-decoration: solid;
+    font-family: 'signupfont';
+    color: rgb(62, 3, 224);
+}
+@font-face {
+    font-family: 'signupfont';
+    src: url(fonts/Futura.woff);
+    font-weight: bolder;
+}
+
+#instruct1{
+    text-align: center;
+    text-decoration: solid;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(62, 3, 224);
+}
+
+#login-header{
+    font-family: 'signupfont';
+    color: rgb(62, 3, 224);
+
+}
+
+#loginlogo{
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+#signup-logo{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#photoshop{
+    height: 169.987px;
+    width: 286px;
+}
+
+#bitcoin{
+    height: 169.987px;
+    width: 286px;
+}
+#java{
+    height: 169.987px;
+    width: 286px;
+}
+
+#course-card-body{
+    width:286px;
+    height: 230px;
+    box-shadow:10px 10px 8px #ffffffc0;
+}
+
+
+#carousel-text{
+    font-family: "webfont";
+    text-shadow: #ffffff44 ;
+    font-size: 32px;
+    
+    
+    margin-bottom: 200px;
+}
+#slideimghome{
+    height:auto;
+}
+
+
+
+
+#carousel-text-course{
+    margin-bottom:50px;
+    font-family: "webfont";
+    font-size: 30px;
+
+
+    }
+
+#cs{
+    color: rgb(0, 148, 99);
+    font-family:'nunitosb1';
+
+}
+#finance{color: rgb(0, 148, 99);
+    font-family:'nunitosb1';
+}
+#photography{color: rgb(0, 148, 99);
+    font-family:'nunitosb1';
+}
+#webdesign{color: rgb(0, 148, 99);
+    font-family:'nunitosb1';
+}
+
+#about-box1{
+box-shadow:10px 10px 8px #bbcecf; 
+}
+#signup-card{
+    width: 500px;
+    height: fit-content;
+}
+
+#price{
+font-size: 12px;
+color: #fff;
+font-weight: 600;
+background: #d82a4e;
+display: inline-block;
+padding: 10px 10px;
+margin: 10px;
+
+}
+#contact-box{
+    border: #1c05b3;
+    border-style: solid;
+    border-radius: 30px;
+    height: 350px;
+    color: #1c05b3;
+}
+
+#instructor-heading{
+    font-family: 'webfont';
+}
+
+#instructor-form{
+    box-shadow:10px 10px 8px #ffffffc0;
+    color: #1c05b3;
+}
